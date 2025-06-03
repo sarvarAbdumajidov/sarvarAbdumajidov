@@ -32,6 +32,64 @@
 
 ---
 
+## 🍎 Smart Nutrition App
+
+[![Main Screenshot](images/Smart%20nutrition/main.png)](https://github.com/sarvarAbdumajidov)
+
+> "Smart Nutrition" — bu sog‘lom ovqatlanish va kaloriyalarni nazorat qilishga yordam beruvchi mobil ilova.
+
+<details>
+  <summary>📷 Barcha skreenshotlarni ko‘rish</summary>
+
+![screen1](images/Smart%20nutrition/screen1.png)
+![screen2](images/Smart%20nutrition/screen2.png)
+![screen3](images/Smart%20nutrition/screen3.png)
+![screen4](images/Smart%20nutrition/screen4.png)
+![screen5](images/Smart%20nutrition/screen5.png)
+![screen6](images/Smart%20nutrition/screen6.png)
+![screen7](images/Smart%20nutrition/screen7.png)
+![screen8](images/Smart%20nutrition/screen8.png)
+![screen9](images/Smart%20nutrition/screen9.png)
+![screen10](images/Smart%20nutrition/screen10.png)
+![screen11](images/Smart%20nutrition/screen11.png)
+![screen12](images/Smart%20nutrition/screen12.png)
+![screen13](images/Smart%20nutrition/screen13.png)
+![screen14](images/Smart%20nutrition/screen14.png)
+![screen15](images/Smart%20nutrition/screen15.png)
+
+</details>
+
+---
+
+## 📘 Dictionary App
+
+[![Main Screenshot](images/Dictionary%20app/main.png)](https://github.com/sarvarAbdumajidov)
+
+> "Dictionary App" — inglizcha so‘zlar uchun tezkor izlash, tarjima va saqlash imkonini beruvchi ilova.
+
+<details>
+  <summary>📷 Barcha skreenshotlarni ko‘rish</summary>
+
+![screen1](images/Smart%20nutrition/screen1.png)
+![screen2](images/Smart%20nutrition/screen2.png)
+![screen3](images/Smart%20nutrition/screen3.png)
+![screen4](images/Smart%20nutrition/screen4.png)
+![screen5](images/Smart%20nutrition/screen5.png)
+![screen6](images/Smart%20nutrition/screen6.png)
+![screen7](images/Smart%20nutrition/screen7.png)
+![screen8](images/Smart%20nutrition/screen8.png)
+![screen9](images/Smart%20nutrition/screen9.png)
+![screen10](images/Smart%20nutrition/screen10.png)
+![screen11](images/Smart%20nutrition/screen11.png)
+![screen12](images/Smart%20nutrition/screen12.png)
+![screen13](images/Smart%20nutrition/screen13.png)
+![screen14](images/Smart%20nutrition/screen14.png)
+![screen15](images/Smart%20nutrition/screen15.png)
+
+</details>
+
+---
+
 ## 📫 Contact Me
 
 - 💼 Upwork: [Upwork.com/Sarvarbek](https://www.upwork.com/freelancers/~01e787ef4cad17de05?mp_source=share)
