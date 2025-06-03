@@ -39,7 +39,7 @@
 > "Smart Nutrition" — This is a mobile app that helps you eat healthy and control calories.
 
 <details>
-  <summary>📷 Barcha skreenshotlarni ko‘rish</summary>
+  <summary>📷 See all screenshots</summary>
 
 ![screen1](images/Smart%20nutrition/screen1.png)
 ![screen2](images/Smart%20nutrition/screen2.png)
@@ -68,7 +68,7 @@
 > "Dictionary App" — A personal assistant app for new language learners.
 
 <details>
-  <summary>📷 Barcha skreenshotlarni ko‘rish</summary>
+  <summary>📷 See all screenshots</summary>
 
 ![screen1](images/Dictionary%20app/screen1.png)
 ![screen2](images/Dictionary%20app/screen2.png)
