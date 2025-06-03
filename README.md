@@ -36,7 +36,7 @@
 
 [![Main Screenshot](images/Smart%20nutrition/main.png)](https://github.com/sarvarAbdumajidov)
 
-> "Smart Nutrition" — bu sog‘lom ovqatlanish va kaloriyalarni nazorat qilishga yordam beruvchi mobil ilova.
+> "Smart Nutrition" — This is a mobile app that helps you eat healthy and control calories.
 
 <details>
   <summary>📷 Barcha skreenshotlarni ko‘rish</summary>
@@ -65,26 +65,26 @@
 
 [![Main Screenshot](images/Dictionary%20app/main.png)](https://github.com/sarvarAbdumajidov)
 
-> "Dictionary App" — inglizcha so‘zlar uchun tezkor izlash, tarjima va saqlash imkonini beruvchi ilova.
+> "Dictionary App" — A personal assistant app for new language learners.
 
 <details>
   <summary>📷 Barcha skreenshotlarni ko‘rish</summary>
 
-![screen1](images/Smart%20nutrition/screen1.png)
-![screen2](images/Smart%20nutrition/screen2.png)
-![screen3](images/Smart%20nutrition/screen3.png)
-![screen4](images/Smart%20nutrition/screen4.png)
-![screen5](images/Smart%20nutrition/screen5.png)
-![screen6](images/Smart%20nutrition/screen6.png)
-![screen7](images/Smart%20nutrition/screen7.png)
-![screen8](images/Smart%20nutrition/screen8.png)
-![screen9](images/Smart%20nutrition/screen9.png)
-![screen10](images/Smart%20nutrition/screen10.png)
-![screen11](images/Smart%20nutrition/screen11.png)
-![screen12](images/Smart%20nutrition/screen12.png)
-![screen13](images/Smart%20nutrition/screen13.png)
-![screen14](images/Smart%20nutrition/screen14.png)
-![screen15](images/Smart%20nutrition/screen15.png)
+![screen1](images/Dictionary%20app/screen1.png)
+![screen2](images/Dictionary%20app/screen2.png)
+![screen3](images/Dictionary%20app/screen3.png)
+![screen4](images/Dictionary%20app/screen4.png)
+![screen5](images/Dictionary%20app/screen5.png)
+![screen6](images/Dictionary%20app/screen6.png)
+![screen7](images/Dictionary%20app/screen7.png)
+![screen8](images/Dictionary%20app/screen8.png)
+![screen9](images/Dictionary%20app/screen9.png)
+![screen10](images/Dictionary%20app/screen10.png)
+![screen11](images/Dictionary%20app/screen11.png)
+![screen12](images/Dictionary%20app/screen12.png)
+![screen13](images/Dictionary%20app/screen13.png)
+![screen14](images/Dictionary%20app/screen14.png)
+![screen15](images/Dictionary%20app/screen15.png)
 
 </details>
 
