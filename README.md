@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Abdumajidov Sarvarbek!</h1>
 
 <p align="center">
-  🚀 Flutter Developer | 🌍 Upwork Freelancer <br>
+  🚀 Flutter Developer | 🌍 Fiverr, Upwork Freelancer <br>
   Passionate about building beautiful and efficient mobile applications using modern technologies.
 </p>
 
