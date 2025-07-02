@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Abdumajidov Sarvarbek!</h1>
+<h1 align="center">👋 Hello, I'm Sarvarbek Abdumajidov!</h1>
 
 <p align="center">
   🚀 Flutter Developer | 🌍 Fiverr, Upwork Freelancer <br>
