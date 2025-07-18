@@ -93,7 +93,7 @@
 ## 📫 Contact Me
 
 - 💼 Upwork: [Upwork.com/Sarvarbek](https://www.upwork.com/freelancers/~01e787ef4cad17de05?mp_source=share)
-- 💼 Fiverr: [fiverr.com/sellers/easy_1904/edit)
+- 💼 Fiverr: [fiverr.com/easy_1904](https://www.fiverr.com/s/1qx56Ze)
 - 💬 Telegram: [Sarvarbek](https://t.me/easy1904)
 - 📧 Email: abdumajidovsarvarbek07@gmail.com
 
